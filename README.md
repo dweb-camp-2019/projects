@@ -9,6 +9,11 @@ A truly Decentralized Web would work in places where there is limited to no inte
 The DWeb Camp is a perfect opportunity for us to make local messaging, mapping, websites, and file storage work with community-managed infrastructures in the wild, where we can all be builders and users of our decentralized technologies.
 So we invite you to bring your ideas and skills to co-create these decentralized applications and processes that will run on our local network without guaranteed Internet connectivity.
 
-This repository is currently a placeholder while we discuss best ways to facilitate this process.
+This [Issues page](https://github.com/dweb-camp-2019/applications/issues) is a space to crowd-source ideas including:
+
+- Types of projects and interactions we'd like to see
+- Early discussions about applications that may run on the meshnet
+- Facilitation of these co-creations and learning opportunities
+
 We expect to publish details on how applications can be served over the meshnet and how project groups can organize by mid-April.
-In the meantime, please hop onto the applications chat at [#dweb-camp-2019-apps:tomesh.net](https://riot.im/app/#/room/#dweb-camp-2019-apps:matrix.org) to share your ideas and find collaborators to build decentralized tools at DWeb Camp!
+In the meantime, please see the Issues page, or hop onto the applications chat at [#dweb-camp-2019-apps:tomesh.net](https://riot.im/app/#/room/#dweb-camp-2019-apps:matrix.org) to share your ideas and find collaborators to build decentralized tools at DWeb Camp!
